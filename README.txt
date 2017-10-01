@@ -1,5 +1,4 @@
-BOOTSTRAP 4 SANDBOX STARTER
-
-VERSION: Bootstrap 4.0.0 Beta
-
-This is the start state for the sandbox. There are no Bootstrap classes added to the HTML. Code along with each lecture to add the bootstrap classes and utilities
+## How To Use
+1. Clone this repository (does not need to install anything)
+2. Move into the directory
+3. You can either work with the html files locally or put it on any live server
